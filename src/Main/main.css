@@ -1,0 +1,87 @@
+.phrase{
+    position: absolute;
+    width: 1920px;
+    height: 145px;
+    top: 3233px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #492B7C;
+}
+
+  .timeline{
+    width: 70%;
+  
+  }
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.potion{ 
+    position: absolute;
+    width: 75px;
+    height: 92px;
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 92px;
+    top: 3122px;
+    color: #492B7C;
+}
+
+
+.container-vertical{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-line {
+    position: absolute;
+    width: 4px;
+    height: 2576px;
+    top: 522px;
+    background: #C5CAE9;
+  }
+
+  .ball1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 547px;
+    border-radius: 50px;
+    background: #834BE1;
+  }
+
+  .ball2{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1118px;
+    border-radius: 50px;
+    background: #834BE1;
+  }
+
+  .ball3{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1742px;
+    border-radius: 50px;
+    background: #834BE1;
+  }
+
+  .ball4{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 2263px;
+    border-radius: 50px;
+    background: #834BE1;
+  }
