@@ -11,4 +11,5 @@ https://www.figma.com/file/9rh2vrq6Xoiry9RsXRuH7j/Web-Test---FideliZi!?node-id=2
 ## Video em execução:
 https://user-images.githubusercontent.com/79288635/173116842-49a3dcb2-027a-4d9d-9ffe-7755d8053d05.mp4
 
+## Acesse o projeto <a href="https://teste-fidelizi.netlify.app/">aqui</a>
 
